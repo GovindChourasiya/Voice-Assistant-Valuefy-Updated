@@ -1,6 +1,7 @@
 import axios from "axios";
 
-const API_BASE_URL = "http://localhost:3001/api/todos"; // Update this to match your backend
+// const API_BASE_URL = "http://localhost:3001/api/todos";
+const API_BASE_URL = "https://smart-voice-assistant.onrender.com"; // Link of the live backend
 
 // Fetch all todos
 export const fetchTodos = async () => {
