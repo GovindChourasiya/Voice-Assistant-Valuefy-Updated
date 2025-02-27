@@ -84,7 +84,7 @@ npm start
 
 ### 🔹 UI Readability & Performance
 **Challenge:** Ensuring a clean and user-friendly interface.
-**Solution:** Used **Tailwind CSS** for styling and **React state management** for real-time updates.
+**Solution:** Used **Bootstrap CSS** for styling and **React state management** for real-time updates.
 
 ## 🎯 Future Enhancements
 - 🌍 **Multi-Language Support** for better accessibility.
